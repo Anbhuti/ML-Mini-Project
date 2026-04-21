@@ -1,6 +1,5 @@
-## ML Mini Project
-## Customer Segmentation & Spending Prediction using Machine Learning
 
+## Customer Segmentation & Spending Prediction using Machine Learning
 ##  Project Overview
 This project is based on Machine Learning techniques to analyze customer behavior.  
 It includes both **Clustering** and **Regression** approaches.
